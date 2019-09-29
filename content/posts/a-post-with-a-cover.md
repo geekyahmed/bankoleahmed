@@ -6,7 +6,7 @@ tags: ['introduction', ]
 series: false
 cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
 canonical_url: false
-description: "Looks like you are in my blog where you eill get to know more more on me"
+description: "Looks like you are in my blog where you will get to know more more on me"
 ---
 <h1>My Story<h1/>
 When I was 5 Years old,I always visit the computer laboratory to play games and also edit pages.So I wondered what was used in making all this applications and programs.So I decided to do some research by asking our computer teacher.
