@@ -8,7 +8,7 @@ cover_image: https://miro.medium.com/max/275/1*O5V1E2VjKUtoxNJ7Baawsg.jpeg
 canonical_url: false
 description: "Looks like you are in my blog where you will get to know more more on me"
 ---
-<h3>My Story<h3/>
+<h5>My Story<h5/>
 When I was 5 Years old,I always visit the computer laboratory to play games and also edit pages.So I wondered what was used in making all this applications and programs.So I decided to do some research by asking our computer teacher.
 She said that they were built through programming languages.By that time,I never knew what was programming. So She explained everything to me and I listened carefully and wrote it down.Then I also asked her how many programming language where there.My first thought was one,then she said over 50 programming languages.
 So I was thinking how would learn over 50 languages. She later said that it depends on the language of my choice .She gave some programming languages like Java,C++,Python,Ruby etc.
