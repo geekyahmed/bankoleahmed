@@ -8,7 +8,7 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+			My Personal Web Blog For My Ideas And Articles On Web Development
 		</p>
 
 		<p class="author__links">
