@@ -1,6 +1,6 @@
 ---
 title: Welcome To My Blog
-date: 2019-01-07
+date: 2019-07-29
 published: true
 tags: ['introduction', ]
 series: false

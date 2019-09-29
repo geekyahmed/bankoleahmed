@@ -54,6 +54,7 @@ export default {
   &__title {
     margin-top: 0;
     text-align: center;
+    
   }
 
   &:hover {
