@@ -32,6 +32,7 @@ export default {
 .post-card {
   margin-bottom: var(--space);
   position: relative;
+  text-align: center;
 
   &__header {
     margin-left: calc(var(--space) * -1);
@@ -52,6 +53,7 @@ export default {
 
   &__title {
     margin-top: 0;
+    text-align: center;
   }
 
   &:hover {
