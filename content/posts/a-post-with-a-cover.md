@@ -4,7 +4,7 @@ date: 2019-07-29
 published: true
 tags: ['introduction', ]
 series: false
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+cover_image: https://miro.medium.com/max/275/1*O5V1E2VjKUtoxNJ7Baawsg.jpeg
 canonical_url: false
 description: "Looks like you are in my blog where you will get to know more more on me"
 ---
