@@ -6,7 +6,7 @@ tags: ['introduction', ]
 series: false
 cover_image: https://miro.medium.com/max/275/1*O5V1E2VjKUtoxNJ7Baawsg.jpeg
 canonical_url: false
-description: "Looks like you are in my blog where you will get to know more more on me"
+description: "Looks like you are in my blog where you will get to know more about me"
 ---
 <h5>My Story<h5/>
 When I was 5 Years old,I always visit the computer laboratory to play games and also edit pages.So I wondered what was used in making all this applications and programs.So I decided to do some research by asking our computer teacher.
