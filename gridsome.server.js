@@ -1,4 +1,4 @@
-// Server API makes it possible to hook into various parts of Gridsome
+  // Server API makes it possible to hook into various parts of Gridsome
 // on server-side and add custom data to the GraphQL data layer.
 // Learn more: https://gridsome.org/docs/server-api/
 
